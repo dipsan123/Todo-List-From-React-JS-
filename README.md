@@ -69,7 +69,7 @@ npm start
 - ✅ Mark tasks as **completed**  
 - ❌ Delete a task  
 - 📁 Save tasks to **local storage**  
-- 🎨 Add **dark mode**  
+
 
 ---
 
